@@ -1,0 +1,1 @@
+genshin-card/assets/skin
